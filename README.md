@@ -3,7 +3,7 @@
 A visual setup routine for Laravel's environment (.env) file. <br>
 Change your environment variables as you like in a visual guided wizard and check your Database credentials live during setup wizard.
 
-
+![Screenshot](https://user-images.githubusercontent.com/20622736/44989340-d1359780-af8d-11e8-80d5-9c2a8ff230ab.png)
 
 
 ## Features
@@ -15,6 +15,8 @@ Change your environment variables as you like in a visual guided wizard and chec
 - Disable Database
 - Detailled Final Step Overview showing your changes to the env before you submit
 - and more!
+
+![Screenshot](https://user-images.githubusercontent.com/20622736/44989341-d1359780-af8d-11e8-9b0e-851759296f52.png)
 
 
 ## Getting Started
