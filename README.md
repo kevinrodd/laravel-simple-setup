@@ -48,7 +48,7 @@ Start your Laravel server with
 php artisan serve
 ```
 
-and click on 'Start Setup'
+and go to /setup
 
 
 ## Authors
