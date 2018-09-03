@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 Require this package with composer. It is recommended to only require the package for development.
 
 ```shell
-composer require rowo/laravel-simple-setup --dev
+TBA / Not on Packalyst yet
 ```
 Laravel 5.6 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
 
