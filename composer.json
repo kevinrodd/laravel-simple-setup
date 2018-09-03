@@ -1,5 +1,5 @@
 {
-    "name": "rowo/LaravelSimpleSetup",
+    "name": "rowo/laravel-simple-setup",
     "description": "A visual setup routine for Laravel's environment (.env) file.",
     "type": "library",
     "license": "GNU General Public License v3.0",
