@@ -1,0 +1,18 @@
+{
+    "name": "rowo/LaravelSimpleSetup",
+    "description": "A visual setup routine for Laravel's environment (.env) file.",
+    "type": "library",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Kevin Rodd",
+            "email": "info@voteback.de"
+        },
+        {
+            "name": "Andreas Wolf",
+            "email": "info@voteback.de"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
