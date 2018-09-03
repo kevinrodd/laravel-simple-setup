@@ -13,6 +13,18 @@
             "email": "info@voteback.de"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "rowo\\LaravelSimpleSetup\\": "src/"
+        }
+    },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "rowo\\LaravelSimpleSetup\\LaravelSimpleSetupServiceProdiver"
+      ]
+    }
+  },
     "minimum-stability": "beta",
     "require": {}
 }
