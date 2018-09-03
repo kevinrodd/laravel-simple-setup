@@ -187,8 +187,7 @@ if(config("database.default") == 'mysql')
         {
             $db = config('database.connections.sqlite');
 
-            \Debugbar::info($db['database']);
-            \Debugbar::info(session('env.DB_DATABASE'));
+
 
 
             //Fullpath from Session
@@ -426,7 +425,7 @@ if(config("database.default") == 'mysql')
         }
 
 
-        \Debugbar::info($request->db_host);
+
 
 
         return $this->viewStep3();

@@ -3,6 +3,9 @@
 A visual setup routine for Laravel's environment (.env) file. <br>
 Change your environment variables as you like in a visual guided wizard and check your Database credentials live during setup wizard.
 
+
+
+
 ## Features
 - Simple Install Routine for beginner and experts
 - Integrated Laravel Basic Auth System Switch (You can turn it on/off during setup)
