@@ -53,7 +53,7 @@ and go to /setup
 
 ## Authors
 
-* **Kevin Rodd** - *Initial work* - [GhostBC](https://github.com/ghostbc)
+* **Kevin Rodd** - *Initial work* - [Kevin Rodd](https://github.com/kevinrodd)
 * **Andreas Wolf** - *Initial work* - [AWolf86](https://github.com/Kappalores)
 
 ## License
